@@ -1,4 +1,5 @@
 from application import app
+import sys
 
 sys.dont_write_bytecode = True
 
